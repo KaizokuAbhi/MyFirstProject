@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shoes</string>
+    <string name="details"> With the advancement in technology, smartphones are
+        becoming smarter, faster,and more powerful with every new generation.
+        There was a time when mobile phones were restricted to just receive or make phone calls.
+        Fast forward it today and you will see that you can do virtually anything on a smartphone.
+        You can book a ride, respond to emails, navigate to different places, click amazing photos,
+        or just binge watch some favorite shows on different streaming applications.</string>
+</resources>
